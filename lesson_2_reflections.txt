@@ -10,3 +10,5 @@ repository? What value do you think it offers?
 It is an area to put files in before you do the final commit.
 
 It lets you think twice before you do an actual commit
+
+adding stuff
