@@ -11,4 +11,5 @@ It is an area to put files in before you do the final commit.
 
 It lets you think twice before you do an actual commit
 
-adding stuff
+How can you use the staging area to make sure you have one commit per logical change?
+add file to stage after editing
