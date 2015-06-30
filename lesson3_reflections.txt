@@ -5,3 +5,10 @@ To share or to keep safe from local deletes
 automatically stay up-to-date with your remote repository?
 
 You want to have control of what happens to the code
+
+>Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+fork: makes a new repository linked to the old one
+clone: makes a copy of an existing repository
+branch: used for development in a repository
