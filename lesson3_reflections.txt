@@ -12,3 +12,9 @@ use one instead of another?
 fork: makes a new repository linked to the old one
 clone: makes a copy of an existing repository
 branch: used for development in a repository
+
+
+>What is the benefit of having a copy of the last known state of the remote
+stored locally?
+If you work offline you can compare changes to the last known state of the
+remote
